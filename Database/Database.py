@@ -1,5 +1,3 @@
-# (c) PR0FESS0R-99
-
 import datetime
 
 import motor.motor_asyncio
