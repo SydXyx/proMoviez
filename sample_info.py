@@ -12,7 +12,7 @@ USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
 ADMINS = [12345789, 'admin123', 987654321]
-CHANNELS = [-10012345678, -100987654321, 'Mo_Tech_YT']
+CHANNELS = [-10012345678, -100987654321]
 AUTH_USERS = []
 AUTH_CHANNEL = None
 
@@ -29,4 +29,4 @@ Here you can search files in inline mode. Just press follwing buttons and start 
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'Please join @Mod_Moviez to use this bot'
